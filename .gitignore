@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# App temporary files
+temp_input/
+temp_output/
+
+# Data
+Data/
+*.xlsx
+*.xls
+*.png
+!Retards_Apres_10AM.png # Optional: keep if you want to show a sample, but usually better ignore
